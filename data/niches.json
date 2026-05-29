@@ -1,22 +1,22 @@
 {
     "domain": "senior.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "건강 식품",
+        "마사지기",
+        "실버 보조용품"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang senior items."
+        "건강 식품": {
+            "topic": "Ginseng extracts, senior vitamins, health drinks.",
+            "role": "Senior health expert."
         },
-        "수유/이유식": {
-            "topic": "senior bottle sterilizers, senior food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "마사지기": {
+            "topic": "Massage guns, foot massagers, massage chairs.",
+            "role": "Recovery equipment reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "실버 보조용품": {
+            "topic": "Walking canes, shopping carts, reading glasses.",
+            "role": "Senior lifestyle curator."
         }
     }
 }
